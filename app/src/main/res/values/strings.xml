@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ListadeActividades</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_uno">uno</string>
+    <string name="title_activity_actividad2">Actividad2</string>
+    <string name="title_activity_actividad3">Actividad3</string>
+    <string name="title_activity_life_cycle_test">LifeCycleTest</string>
+    <string name="title_activity_actividad4">Actividad4</string>
+
+
+</resources>
